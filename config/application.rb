@@ -11,5 +11,7 @@ module BlogFlash
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
+   #config.web_console.whitelisted_ips = '<http://localhost:3000/posts/new?post%5Btitle%5D=lkadjf%3Blkasdjf&post%5Bdescription%5D=adsfasd>'
+  
   end
 end
